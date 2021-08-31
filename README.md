@@ -3,7 +3,7 @@
 This project connects an old Wii guitar using an Arduino Uno to a Windows computer.
 
 ## Warning
-I am a complete beginner in C/C++ and as a result this code is written poorly using many code samples. A lot of things can be improved, but I wanted something working.
+I am a complete beginner in C and as a result this code is written poorly using many code samples. A lot of things can be improved, but I wanted something working.
 
 ## Guitar to Arduino Uno connection
 
@@ -27,7 +27,7 @@ After that, I wrote the Arduino code using the [NintendoExtensionCtrl](https://g
 
 ![Wiimote connector](./assets/IMG_3.jpg)
 
-Finally, I connected to my guitar the Arduino and wrote a C++ program which read the serial COM port to get the guitar data and then send keyboard inputs to Windows.
+Finally, I connected to my guitar the Arduino and wrote a C program which read the serial COM port to get the guitar data and then send keyboard inputs to Windows.
 
 ## TODO
 
